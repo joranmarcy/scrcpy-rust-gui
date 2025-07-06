@@ -1,6 +1,6 @@
-# scrpy-rust GUI
+# scrcpy-rust GUI
 
-This project is a Rust GUI for launching and controlling scrcpy. It uses the `eframe` (egui) framework for the interface. You can select a device, set resolution and bit-rate, and launch scrcpy from the app.
+This project is a Rust GUI for launching and controlling scrcpy. It uses the `eframe` (egui) framework for the interface.
 
 ## Getting Started
 
