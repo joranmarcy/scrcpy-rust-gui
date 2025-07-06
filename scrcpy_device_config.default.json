@@ -1,0 +1,10 @@
+{
+  "Quest 2": {
+    "label": "Quest 2",
+    "scrcpy_args": "--crop=1600:900:2017:510 -f --max-fps 60"
+  }
+  "default": {
+    "label": "Generic Device",
+    "scrcpy_args": "-m 1080 -f --max-fps 60"
+  }
+}
